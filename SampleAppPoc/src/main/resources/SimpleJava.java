@@ -6,6 +6,7 @@ public class SimpleJava {
 		System.out.println("Jai SriRam");
 		System.out.println("Hare Krishna");
 		System.out.println("Lord Shiva");
+		System.out.println("Sambo Siva Shambo");
 	}
 
 }
