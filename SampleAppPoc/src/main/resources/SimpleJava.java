@@ -5,6 +5,7 @@ public class SimpleJava {
 		// TODO Auto-generated method stub
 		System.out.println("Jai SriRam");
 		System.out.println("Hare Krishna");
+		System.out.println("Lord Shiva");
 	}
 
 }
